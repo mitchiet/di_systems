@@ -1,1 +1,11 @@
 node_modules/
+local.properties
+
+# Android/IntelliJ
+#
+build/
+debug.keystore
+.gradle/
+.idea/
+.kotlin/
+.cxx/
